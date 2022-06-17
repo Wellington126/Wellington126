@@ -1,16 +1,18 @@
-### Hi there 👋
+##  Olá, me chamo Wellington!
+#
+<div align="center">
+  <a href="https://github.com/Wellington126">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellington126&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington126&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-<!--
-**Wellington126/Wellington126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
+<div>
+  <a href="https://discord.com/channels/818951123925991454" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://web.telegram.org/k/" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>      
+  <a href="https://www.linkedin.com/in/wellington-antonio-9ab069205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
-Here are some ideas to get you started:
+   ![Snake animation](https://github.com/WEllington126/WEllington126/blob/output/github-contribution-grid-snake.svg)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
