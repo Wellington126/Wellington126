@@ -7,7 +7,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington126&layout=compact&langs_count=7&theme=dark"/>
 </div> 
  
-## 📱 Contatos:
+## 📱 Contacts:
 <div>
   <a href="https://twitter.com/HetoOficial?t=DlZdnGMkf7kOILmkhkPfgA&s=08" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wellington-antonio-9ab069205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
